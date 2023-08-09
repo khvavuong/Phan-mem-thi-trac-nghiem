@@ -1,0 +1,11 @@
+E:\C#\Project\ProjectThiTracNghiem\Business_Tier\bin\Release\Business_Tier.dll
+E:\C#\Project\ProjectThiTracNghiem\Business_Tier\bin\Release\Business_Tier.pdb
+E:\C#\Project\ProjectThiTracNghiem\Business_Tier\bin\Release\Data_Tier.dll
+E:\C#\Project\ProjectThiTracNghiem\Business_Tier\bin\Release\Entities.dll
+E:\C#\Project\ProjectThiTracNghiem\Business_Tier\bin\Release\Data_Tier.pdb
+E:\C#\Project\ProjectThiTracNghiem\Business_Tier\bin\Release\Entities.pdb
+E:\C#\Project\ProjectThiTracNghiem\Business_Tier\obj\Release\Business_Tier.csproj.AssemblyReference.cache
+E:\C#\Project\ProjectThiTracNghiem\Business_Tier\obj\Release\Business_Tier.csproj.CoreCompileInputs.cache
+E:\C#\Project\ProjectThiTracNghiem\Business_Tier\obj\Release\Business_Tier.csproj.CopyComplete
+E:\C#\Project\ProjectThiTracNghiem\Business_Tier\obj\Release\Business_Tier.dll
+E:\C#\Project\ProjectThiTracNghiem\Business_Tier\obj\Release\Business_Tier.pdb

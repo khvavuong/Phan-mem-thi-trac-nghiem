@@ -1,0 +1,9 @@
+E:\C#\Project\ProjectThiTracNghiem\Data_Tier\bin\Release\Data_Tier.dll
+E:\C#\Project\ProjectThiTracNghiem\Data_Tier\bin\Release\Data_Tier.pdb
+E:\C#\Project\ProjectThiTracNghiem\Data_Tier\bin\Release\Entities.dll
+E:\C#\Project\ProjectThiTracNghiem\Data_Tier\bin\Release\Entities.pdb
+E:\C#\Project\ProjectThiTracNghiem\Data_Tier\obj\Release\Data_Tier.csproj.AssemblyReference.cache
+E:\C#\Project\ProjectThiTracNghiem\Data_Tier\obj\Release\Data_Tier.csproj.CoreCompileInputs.cache
+E:\C#\Project\ProjectThiTracNghiem\Data_Tier\obj\Release\Data_Tier.csproj.CopyComplete
+E:\C#\Project\ProjectThiTracNghiem\Data_Tier\obj\Release\Data_Tier.dll
+E:\C#\Project\ProjectThiTracNghiem\Data_Tier\obj\Release\Data_Tier.pdb

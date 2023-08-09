@@ -1,0 +1,42 @@
+<DeThi>
+<CauHoi>
+<NoiDung>Ngôn ngữ lập trình C được Dennish phát triển dựa trên ngôn ngữ lập trình nào?</NoiDung>
+<DapAnA>Ngôn ngữ B và BCPL.</DapAnA>
+<DapAnB>Ngôn ngữ BCPL.</DapAnB>
+<DapAnC>Ngôn ngữ DEC PDP.</DapAnC>
+<DapAnD>Ngôn ngữ B.</DapAnD>
+<DapAnDung>1</DapAnDung>
+</CauHoi>
+<CauHoi>
+<NoiDung>Ngôn ngữ lập trình nào dưới đây là ngôn ngữ lập trình có cấu trúc?</NoiDung>
+<DapAnA>Ngôn ngữ Assembler.</DapAnA>
+<DapAnB>Ngôn ngữ C và Pascal.</DapAnB>
+<DapAnC>Ngôn ngữ Cobol.</DapAnC>
+<DapAnD>A, B và C</DapAnD>
+<DapAnDung>2</DapAnDung>
+</CauHoi>
+<CauHoi>
+<NoiDung>Một biến được gọi là biến toàn cục nếu?</NoiDung>
+<DapAnA>Nó được khai báo tất cả các hàm, ngoại trừ hàm main ().</DapAnA>
+<DapAnB>Nó được khai báo bên ngoài hàm main ().</DapAnB>
+<DapAnC>Nó được khai báo ngoài tất cả các hàm kể cả hàm main ().</DapAnC>
+<DapAnD>Nó được khai báo bên trong hàm main ().</DapAnD>
+<DapAnDung>3</DapAnDung>
+</CauHoi>
+<CauHoi>
+<NoiDung>Một biến được gọi là một biến địa phương nếu?</NoiDung>
+<DapAnA>Nó đươc khai báo bên trong các hàm ngoại trừ hàm main ().</DapAnA>
+<DapAnB>Nó được khai báo bên trong hàm main ().</DapAnB>
+<DapAnC>Nó được khai báo bên ngoài các hàm kể cả hàm main ().</DapAnC>
+<DapAnD>Nó được khai báo bên trong các hàm hoặc thủ tục, kể cả hàm main ().</DapAnD>
+<DapAnDung>4</DapAnDung>
+</CauHoi>
+<CauHoi>
+<NoiDung>Kiểu dữ liệu nào dưới đây được coi là kiểu dữ liệu cơ bản trong ngôn ngữ lập trình C?</NoiDung>
+<DapAnA>Kiểu con trỏ.</DapAnA>
+<DapAnB>Kiểu hợp.</DapAnB>
+<DapAnC>Kiểu double.</DapAnC>
+<DapAnD>Kiểu mảng.</DapAnD>
+<DapAnDung>3</DapAnDung>
+</CauHoi>
+</DeThi>

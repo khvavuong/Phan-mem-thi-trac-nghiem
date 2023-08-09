@@ -1,0 +1,21 @@
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\Entities\bin\Debug\Entities.dll
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\Entities\bin\Debug\Entities.pdb
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\Entities\obj\Debug\Entities.dll
+C:\Users\user\Desktop\DeTaiC#\DAMH_ThiTracNghiem_THDC\Entities\obj\Debug\Entities.pdb
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Entities\bin\Debug\Entities.dll
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Entities\bin\Debug\Entities.pdb
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Entities\obj\Debug\Entities.dll
+C:\Users\THUSANG\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Entities\obj\Debug\Entities.pdb
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Entities\bin\Debug\Entities.dll
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Entities\bin\Debug\Entities.pdb
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Entities\obj\Debug\Entities.dll
+C:\Users\user\Desktop\New folder\DAMH_ThiTracNghiem_THDC\Entities\obj\Debug\Entities.pdb
+E:\C#\Project\Quản lý thi trắc nghiệm tin học đại cương C#\Entities\bin\Debug\Entities.dll
+E:\C#\Project\Quản lý thi trắc nghiệm tin học đại cương C#\Entities\bin\Debug\Entities.pdb
+E:\C#\Project\Quản lý thi trắc nghiệm tin học đại cương C#\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+E:\C#\Project\Quản lý thi trắc nghiệm tin học đại cương C#\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+E:\C#\Project\Quản lý thi trắc nghiệm tin học đại cương C#\Entities\obj\Debug\Entities.dll
+E:\C#\Project\Quản lý thi trắc nghiệm tin học đại cương C#\Entities\obj\Debug\Entities.pdb

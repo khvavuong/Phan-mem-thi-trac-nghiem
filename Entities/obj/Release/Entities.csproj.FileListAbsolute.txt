@@ -1,0 +1,6 @@
+E:\C#\Project\ProjectThiTracNghiem\Entities\bin\Release\Entities.dll
+E:\C#\Project\ProjectThiTracNghiem\Entities\bin\Release\Entities.pdb
+E:\C#\Project\ProjectThiTracNghiem\Entities\obj\Release\Entities.csproj.AssemblyReference.cache
+E:\C#\Project\ProjectThiTracNghiem\Entities\obj\Release\Entities.csproj.CoreCompileInputs.cache
+E:\C#\Project\ProjectThiTracNghiem\Entities\obj\Release\Entities.dll
+E:\C#\Project\ProjectThiTracNghiem\Entities\obj\Release\Entities.pdb
